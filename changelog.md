@@ -1,51 +1,28 @@
-# PMBOK document templates
+# Como iremos Crescer
 
+# Scrum
 
+ * Uma metodologia ágil de gestão de projetos, geralmente utilizada na área de desenvolvimento de software, porém, pode muito bem ser aplicada em outras áreas, como marketing e engenharia, por exemplo.
 
-# How to contribute
+  * Nesta metodologia, **o gerente e sua equipe** assumem determinados papéis e seguem algumas regras para melhor definir os objetivos de projetos e cumprir os prazos estabelecidos neles.
 
-If you can improve these templates, please do! I accept pull requests.
+  * Scrum e uma jogada do Rugby! (https://www.facebook.com/watch/?v=351898955411291)
 
-Edit your templates branch and then create a pull request for the changes that you want to submit only.
+#  Quais são os papeis?
 
-Please do not submit the per-project branch with Your project-specific data! I
+* Product Owner (PO): Ele é o responsável pelo projeto, instruindo a equipe e definindo quais requisitos precisam ser entregues. O Product Owner atua sempre visando os interesses dos clientes ou usuários do produto em questão.
 
-I will most likely accept all improvements that refer to the original PMBOK 6th Edition. Adaptations and extensions of PMBOK process (e.g. for agile mods) might be acceptable on a case-by-case basis.
+* Scrum Master: É aquele que faz a ponte entre o PO e o restante da equipe, organizando as reuniões, requisitos e as tarefas em andamento. O Scrum Master também se encarrega do cumprimento correto das fases do Scrum a fim de garantir a entrega do projeto dentro do prazo e atendendo os requisitos do PO.
 
-# To Do
+* Development team: É o time de desenvolvimento, aqueles que trabalham no desenvolvimento do projeto.
 
-* Complete list of tools and link them from each relevant process
-* Make sure all documents have a reference to PMBOK for further explanations
-* Adapt to [Readthedocs](<https://readthedocs.org/>) publishing (using [Sphinx](<https://www.sphinx-doc.org/en/master/>))
-* Figure out what to do with "lost documents" from the folder "0meta_lost_and_found"
-* Publish as downloadable zip
-* Create some stats  e.g. 'how many links point to this document'
-* [x] Begin using it for my next project
-* [x] convert links to commonmark standard so that it is more compatible with non-obsidian editors
+# Tá, mas como vai ser nossa rotina?
+Basicamente um monte de reunião, teremos as:
 
-# Progress log
+   * **Planejamento da Sprint (Sprint planning):** serão reunião de aproximadamente 2 horas, é aqui que entra a reunião de planejamento da sprint. O objetivo de uma reunião de planejamento da sprint é simples: estabeleça o que você e sua equipe do Scrum desejam realizar nesse sprint.
 
-2020-06-21: Modified all the links to the commonmark standard, using [typobs](https://github.com/jerzydziewierz/typobs)
+  * **Diaria (dailt):** Reunião diária que dura em média 15 minutos, em que cada membro do team deve levar em conta 3 perguntas básicas: O que eu fiz ontem? O que eu farei hoje? Existe algum impedimento para o andamento do que tenho que fazer?
+  
+  * **Revisão de Sprint (sprint review):** É a reunião de entrega daquilo que foi produzido, ela acontece depois das duas semanas de desenvolvimento. Na sprint review, o PO atesta o trabalho como ** PRONTO ou NÃO**, de acordo com os requisitos estabelecidos lá na fase de sprint planning. A reunião pode durar no máx. 2h.Seu objetivo em uma reunião de revisão da sprint é reunir feedback. Ao demonstrar novos recursos e funcionalidades do produto, permita que o proprietário do produto e outras partes interessadas respondam e avaliem seu trabalho. A metodologia Ágil depende de conversas abertas e frequentes: à medida que você e sua equipe documentam, respondem e agem com base no feedback, lembre-se de que essas conversas ajudam a criar um produto melhor. Certos pontos de feedback podem exigir trabalho adicional no produto — adicione-os à sua lista de pendências e considere incluí-los no próximo sprint. (Esta é uma questão de prioridade: o feedback será implementado no final, mas se outras tarefas estiverem pressionando mais, você poderá guardá-lo para um sprint mais adiante.).
 
-2020-06-15: All processes are now complete. The templates are ready to use, altough more can be done to beautify tools section.
-
-2020-06-14: Navigation for chapter 10 (Communications management), and related content
-
-2020-06-14: Navigation for  chapter 9 (Resource management), content for chapers 9.1 through 9.6
-
-2020-06-13: Large chunk of progress and corrections on the navigation side (processes folder), some 20 still to go. Readability upgrades, links to the PMBOK.
-
-2020-06-12: New processes added, corrections. All documents are in, but detailed links to them from processes in chapters 5-12 are not there yet.
-
-2020-06-11: New processes added, corrections. Some files renamed for easier navigation and consistency.
-
-2020-06-10: Chapter 4 - Project integration - docs complete, links complete. Also, I have pre-added all the "project documents" so there is now 36 of them. Note that some of the documents used later in the project are not mentioned in PMBOK 4.2.3.1 Table 4-1
-
-2020-06-09: Chapter 13 - Stakeholder management - docs complete. Some Tools and Techniques ommited.
-
----
-
-Created using https://obsidian.md/ - and https://typora.io/ where applicable. The intention is to keep it compatible with https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-go back to [the readme document](README.md)
-
+ * **Retrospectiva da sprint (sprint retrospective):**É uma reunião de no máx. 3h com a finalidade de avaliar o desempenho da equipe durante a sprint que se encerra. As conclusões da sprint retrospective contribuem para a melhoria das sprints futuras. Nesta reunião é importante ter em mente perguntas do tipo “onde erramos?” e “o que podemos melhorar?”, visando sempre a otimização do tempo e esforços.
