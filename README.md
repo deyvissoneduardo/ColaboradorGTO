@@ -1,4 +1,4 @@
-# Quem somos nos
+# Nosso contraro SLA.
 
 - Gerente Geral de Marketing e Desenvolvimento <br>
 Edson ou ED <br>
@@ -32,6 +32,9 @@ um filme e um seriado:<br>
 # Seja Livre !!!!!!!!!
 * O que esperamos do Grupo GTO? 
 <br>
+  Reconhecimento.
+  Organização.
+  
 * O que o coordenador espera dos desenvolvedores e da UxUi? 
 <br>
 * O que os desenvolvedores e a UxUi espera do coordenador? 
